@@ -1,0 +1,62 @@
+.mybutton{
+  background-color: #f5ba13;
+  color: #fff;
+  padding: 5px;
+  border-radius: 15px;
+  
+  
+}
+
+.showw {
+font-size: 100%;
+}
+
+.clock{
+  margin-top: 20px;
+  background-color: #f5ba13;
+  color: #fff;
+  padding: 5px;
+  border-radius: 0px;
+}
+
+.innerbox{
+  border: 3px solid #f5ba13;
+  border-radius: 50px;
+  padding: 50px;
+  width: 70vh;
+}
+
+input{
+  height: 35px;
+  background-color: #f5ba13;
+  color: #fff;
+  width: 10rem;
+  border: none;
+  padding: 10px;
+  border-bottom: 2px soid #f5ba13;
+}
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  
+}
+.box1{
+    display: flex;
+    justify-content: center;
+}
+.box2{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.mytext {
+  color: #615656;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
